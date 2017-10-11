@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="rating">Rating:</string>
+    <string name="description">Description:</string>
+    <string name="more">More</string>
+    <string name="nicolas_cage">Nicolas Cage</string>
+    <string name="image">Image</string>
+</resources>
